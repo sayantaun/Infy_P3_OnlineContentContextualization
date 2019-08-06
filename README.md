@@ -4,7 +4,7 @@ Step1: Fork & clone the git repository : git clone url
 
 Step2: Install & start the docker desktop
 
-Step3: Go to cloned directory : cd test1111
+Step3: Go to cloned directory : cd Infy_P3_OnlineContentContextualization/
 
 Step4: Build the docker image : docker build -t summarizer-api .
 
